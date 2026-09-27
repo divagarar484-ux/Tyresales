@@ -1,0 +1,21 @@
+{
+  "name": "Salini Tyre Repairs - சாலினி டயர் ரிப்பேர்ஸ்",
+  "short_name": "Salini Tyres",
+  "description": "Two-Wheeler Tyre Sales, Sourcing & Vulcanizing in Achampathu, Madurai",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#e8380d",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1578844251758-2f71da64c96f?w=192&h=192&q=80&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1578844251758-2f71da64c96f?w=512&h=512&q=80&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

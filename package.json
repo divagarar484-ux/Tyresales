@@ -1,0 +1,20 @@
+{
+  "name": "salini-tyre-repairs",
+  "version": "1.0.0",
+  "description": "Two-Wheeler Tyre Sales, Sourcing & Vulcanizing in Madurai",
+  "main": "server.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node dist/server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "tyre",
+    "vulcanizing",
+    "madurai",
+    "salini-tyres",
+    "pwa"
+  ],
+  "author": "K. Arumugam",
+  "license": "ISC"
+}
